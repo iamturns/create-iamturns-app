@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "debug": "4.3.1",
-    "dotenv": "8.2.0",
+    "dotenv": "8.6.0",
     "hygen": "6.0.4"
   },
   "devDependencies": {
